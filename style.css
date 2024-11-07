@@ -1,0 +1,51 @@
+* {
+      box-sizing: border-box;
+}
+body {
+      background: hsl(0, 0%, 8%);
+      color: white;
+      text-align: center;
+}
+section {
+      justify-content: center;
+      background-color: hsl(0, 0%, 12%);
+      border-radius: 10px;
+      padding: 10%;
+      margin: 10% 20% 10% 20%;
+}
+img {
+      border-radius: 50%;
+}
+h1 {
+      margin: 15px 0 5px 0;
+
+}
+
+#contry {
+      color: hsl(75, 94%, 57%);
+      margin: 0 0 16px 0;
+
+}
+
+menu {
+      margin: 0;
+      padding: 0;
+}
+ul {
+      margin: 0;
+      padding: 0;
+}
+
+li {
+      background: hsl(0, 0%, 20%);
+      list-style: none;
+      border-radius: 10px;
+      padding: 20px;
+      margin: 20px;
+}
+
+li:hover {
+      background: hsl(75, 94%, 57%);
+      color: hsl(0, 0%, 8%);
+
+}
